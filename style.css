@@ -1,0 +1,11 @@
+.container{
+    width: fit-content;
+}
+.btn-group{
+    width: 100%;
+       
+}
+input{
+    background-color: black !important;
+    color: whitesmoke !important;
+}    
